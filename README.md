@@ -7,6 +7,8 @@ Original ViT implementation: https://github.com/lucidrains/vit-pytorch
 # Requirements
 
 pytorch
+
+
 einops
 
 # Usage
