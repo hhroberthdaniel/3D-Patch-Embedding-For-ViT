@@ -1,5 +1,5 @@
 # 3D-Patch-Embedding-For-ViT
-This repository adapts Visual Trnasformer for 3d data, by just changing the patch embedding algorithm.
+This repository adapts Vision Transformer for 3D Data, by just changing the patch embedding algorithm.
 
 Original ViT implementation: https://github.com/lucidrains/vit-pytorch
 
